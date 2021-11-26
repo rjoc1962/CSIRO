@@ -1,0 +1,2 @@
+﻿KEY,"SOURCE,"SIGHTINGDATE,"OBSERVER,"NUMOBSERVED,"LATITUDE,"LONGITUDE,"SPECIES,"FAMILYNAME,"COMNAME1,"SIGHTINGCOMM,"HABITATCOMM,"LOCATIONCOMM,"RESERVENAME,"ISINDIGENOUSFLAG"
+dwc:catalogNumber,"dwc:samplingProtocol,"dwc:eventDate,"dwc:identifiedBy,"dwc:individualCount,"dwc:decimalLatitude,"dwc:decimalLongitude,"dwc:scientificName,"dwc:family,"dwc:vernacularName,"dwc:fieldNotes,"dwc:Habitat,"dwc:georeferenceRemarks,"dwc:SamplingLocationRemarks"
