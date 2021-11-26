@@ -21,11 +21,12 @@ library(tidyverse)
    verifStatus <- c("verification required","verified","verified by specialist","unverifiable")
    verifTranslate <- c("P","Y","YS","N");
 
-#Global attributes
-   institution <- "University of Tasmania"
-   history <- "Version 3 netCDF created by University of Qld"
-   conventions <- "data conventions here?"
-   source <- "Data Source here"
-   references <- "References here"
-   titleInfo <- "Reg Watson Fish data"
-
+#Dublin Core terms namespace   - not applied at this stage
+   
+   # dcterms:accessRights 
+   # dcterms:bibliographicCitation 
+   # dcterms:language 
+   # dcterms:license 
+   # dcterms:modified dcterms:references
+   # dcterms:rightsHolder 
+   # dcterms:type
