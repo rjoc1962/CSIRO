@@ -1,5 +1,7 @@
 # Convert to DwC
 # set Working Data Directory  - assumes you are at root dir CSIRO-Interview
+# Reset working directory as required
+
 setwd("C:/Users/Rose/Documents/MyLocalData/GitHub/CSIRO-Interview")
 source("./config-DwC.r");   
 setwd(fDir);
