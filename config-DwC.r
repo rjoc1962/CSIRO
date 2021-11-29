@@ -21,7 +21,7 @@ library(tidyverse)
    verifStatus <- c("verification required","verified","verified by specialist","unverifiable")
    verifTranslate <- c("P","Y","YS","N");
 
-#Dublin Core terms namespace   - not applied at this stage
+#Darwin Core terms namespace   - not applied at this stage
    
    # dcterms:accessRights 
    # dcterms:bibliographicCitation 
